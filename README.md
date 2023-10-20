@@ -13,7 +13,7 @@ Professor de história, caçador de aspas ímpares e outros sinais gráficos que
 
 
 ## O que serão meus próximos passos?
-<img src="https://devicons.dev.br/icons?icon=MongoDB,Redis,CS,DotNet&size=150&theme=dark" />
+<img src="https://devicons.dev.br/icons?icon=MongoDB,Redis,PowerBi&size=150&theme=dark" />
                           
 ## De que lado que eu sambo?
 
