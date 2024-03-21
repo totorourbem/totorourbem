@@ -1,49 +1,27 @@
-# Olá!
-
-![Totorourbem's GitHub stats](https://github-readme-stats.vercel.app/api?username=totorourbem&show_icons=true&theme=transparent&rank_icon=github)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=totorourbem&layout=donut)
-
-## Sobre!
-
-Professor de história, caçador de aspas ímpares e outros sinais gráficos que podem estar no lugar certo, mas na hora errada. Pai do Benjamim, marido da Gisele. Fão dos Lakers, dos 49ers e Corinthiano.
-
-## Proficiencia - operacional
-
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/git.svg" width="35" height="35" /> <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/github.svg" width="35" height="35" /> <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/linux.svg" width="35" height="35" /> <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/metabase.svg" width="35" height="35" /> <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/powerbi.svg" width="35" height="35" /> <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/windows.svg" width="35" height="35" /> <img src="https://github.com/totorourbem/My-Roadmap/blob/main/Imagens/adobephotoshop.svg" width="35" height="35" />  <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dc651f35a5abd2f89950f99bb6921c6ab83c6cbb/Imagens/gimp.svg" width="35" height="35" /> <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dc651f35a5abd2f89950f99bb6921c6ab83c6cbb/Imagens/libreoffice.svg" width="35" height="35" /> <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dc651f35a5abd2f89950f99bb6921c6ab83c6cbb/Imagens/microsoftoffice.svg" width="35" height="35" /> <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dae4354a2b135b35e57f74091c1981403fbb0498/Imagens/HTML%205.svg" width="35" height="35" /> <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dae4354a2b135b35e57f74091c1981403fbb0498/Imagens/css3.svg" width="35" height="35" />
-
-
-
-
-
-## O que ando aprendendo?
-
-
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dae4354a2b135b35e57f74091c1981403fbb0498/Imagens/javascript.svg" width="35" height="35" /> ![](https://geps.dev/progress/20?dangerColor=F7DF1E&warningColor=F7DF1E&successColor=F7DF1E)
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/npm.svg" width="35" height="35" /> ![](https://geps.dev/progress/20?dangerColor=CB3837&warningColor=CB3837&successColor=CB3837)
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dae4354a2b135b35e57f74091c1981403fbb0498/Imagens/r.svg" width="35" height="35" /> ![](https://geps.dev/progress/15?dangerColor=276DC3&warningColor=276DC3&successColor=276DC3)
-
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dae4354a2b135b35e57f74091c1981403fbb0498/Imagens/mysql.svg" width="35" height="35" /> ![](https://geps.dev/progress/20?dangerColor=4479A1&warningColor=4479A1&successColor=4479A1)
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dae4354a2b135b35e57f74091c1981403fbb0498/Imagens/sqlite.svg" width="35" height="35" /> ![](https://geps.dev/progress/15?dangerColor=003B57&warningColor=003B57&successColor=003B57)
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dae4354a2b135b35e57f74091c1981403fbb0498/Imagens/mongodb.svg" width="35" height="35" /> ![](https://geps.dev/progress/10?dangerColor=47A248&warningColor=47A248&successColor=47A248) 
-
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/python.svg" width="35" height="35" /> ![](https://geps.dev/progress/35?dangerColor=3776AB&warningColor=3776AB&successColor=3776AB)
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/numpy.svg" width="35" height="35" /> ![](https://geps.dev/progress/15?dangerColor=013243&warningColor=013243&successColor=013243) 
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/pandas.svg" width="35" height="35" /> ![](https://geps.dev/progress/15?dangerColor=150458&warningColor=150458&successColor=150458) 
-
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/amazonaws.svg" width="35" height="35" /> ![](https://geps.dev/progress/10?dangerColor=232F3E&warningColor=232F3E&successColor=232F3E)
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/microsoftazure.svg" width="35" height="35" /> ![](https://geps.dev/progress/10?dangerColor=0078D4&warningColor=0078D4&successColor=0078D4)
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/oracle.svg" width="35" height="35" /> ![](https://geps.dev/progress/10?dangerColor=F80000&warningColor=F80000&successColor=F80000)
-
-
-## O que serão meus próximos passos?
-<img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dae4354a2b135b35e57f74091c1981403fbb0498/Imagens/redis.svg" width="35" height="35" /> ![](https://geps.dev/progress/3?dangerColor=DC382D&warningColor=DC382D&successColor=DC382D) <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/pytorch.svg" width="35" height="35" /> ![](https://geps.dev/progress/3?dangerColor=EE4C2C&warningColor=EE4C2C&successColor=EE4C2C) <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/scikitlearn.svg" width="35" height="35" /> ![](https://geps.dev/progress/3?dangerColor=F7931E&warningColor=F7931E&successColor=F7931E) <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/selenium.svg" width="35" height="35" /> ![](https://geps.dev/progress/3?dangerColor=43B02A&warningColor=43B02A&successColor=43B02A) <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/tensorflow.svg" width="35" height="35" /> ![](https://geps.dev/progress/3?dangerColor=FF6F00&warningColor=FF6F00&successColor=FF6F00) <img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dc651f35a5abd2f89950f99bb6921c6ab83c6cbb/Imagens/databricks.svg" width="35" height="35" /> ![](https://geps.dev/progress/3?dangerColor=FF3621&warningColor=FF36210&successColor=FF3621)
-
-                          
-## De que lado que eu sambo?
-
-Apesar de toda loucura, tento aprender o máximo que posso na área de ciência de dados.
-
-## Contatos
-<div align="center">
-<a href="https://www.facebook.com/ricardo.francisco.9440" target="_blank" style="margin-right: 100px;" ><img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/facebook.svg" width="35" height="35" /></a>        
-                          <a href="https://www.linkedin.com/in/ricardo-jeferson-da-silva-francisco-22358011b/" target="_blank" style="margin-right: 100px;" ><img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/linkedin.svg" width="35" height="35" /></a> <a href="https://wa.me/5543935059077" target="_blank" style="margin-right: 100px;" ><img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/whatsapp.svg" width="35" height="35" /></a> <a href="https://twitter.com/ricardo05933779" target="_blank" style="margin-right: 100px;" ><img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/44cae12b6ec93fc90a001b131a1c4fee347e2f05/Imagens/x.svg" width="35" height="35" /></a> <a href="https://www.kaggle.com/ricardojfrancisco" target="_blank" style="margin-right: 100px;" ><img src="https://raw.githubusercontent.com/totorourbem/My-Roadmap/dc651f35a5abd2f89950f99bb6921c6ab83c6cbb/Imagens/kaggle.svg" width="35" height="35" /></a>
-</div>
+<img align="center" src="https://raw.githubusercontent.com/totorourbem/totorourbem/main/Assets/header%20-%20README.png" />
+<hr>
+<h1 align="center">Oi, meu nome é Ricardo Jeferson da Silva Francisco</h1>
+<h3 align="center">Educomunicador e Historiador, Entusiasta em estatísticas e <i>Datascience</i>.</h3>
+<hr>
+<p><img align="left" src="https://camo.githubusercontent.com/35ef80f9b32721a77cb0ec6cc626a9c6086aa473bea29f8855ae61907b4b80e3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d746f746f726f757262656d2673686f775f69636f6e733d74727565267468656d653d7472616e73706172656e742672616e6b5f69636f6e3d676974687562" alt="Totorourbem's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=totorourbem&amp;show_icons=true&amp;theme=transparent&amp;rank_icon=github" style="max-width: 100%;" alt="totorourbem" /></p>
+<p>&nbsp;<img align="center" src="https://camo.githubusercontent.com/63ea6fd9ae187c340a7672997650affeda416b3deecd7564ecbe904f09c7a97e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d746f746f726f757262656d266c61796f75743d646f6e7574" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=totorourbem&amp;layout=donut" style="max-width: 100% alt="totorourbem" /></p>
+<hr>
+<h3 align="left">Sobre:</h3>
+<h3 align="justify">Caçador de aspas ímpares e outros sinais gráficos que podem estar no lugar certo, mas na hora errada. Pai do Benjamim, marido da Gisele. Fã dos <i>Lakers</i>, dos <i>49ers</i> e Corinthiano. Alguém que lida com cobras de humor pitoresco, dados não tão humorados e uma vida de cartas magras...</h3>
+<hr>
+<h3 align="left">Interesses:</h3>
+<h3 align="justify">Procuro atuar na área de dados, seja em prospecção, organização ou análise dos mesmos. Gosto de <i>dataviz</i>, mas tendo a me preocupar muito mais com a comunicação dos resultados para além da visualização gráfica.</h3>
+<hr>
+<h3 align="left">Linguagens and Ferramentas:</h3>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<hr>
+<h3 align="left">Contatos:</h3>
+<p align="center">
+<a href="https://twitter.com/ricardo05933779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ricardo05933779" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ricardo-jeferson-da-silva-francisco-22358011b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ricardo-jeferson-da-silva-francisco-22358011b" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23716247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23716247" height="30" width="40" /></a>
+<a href="https://kaggle.com/ricardojfrancisco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ricardojfrancisco" height="30" width="40" /></a>
+<a href="https://fb.com/ricardo.francisco.9440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ricardo.francisco.9440" height="30" width="40" /></a>
+<a href="https://dribbble.com/totoro_urbem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="totoro_urbem" height="30" width="40" /></a>
+<a href="https://medium.com/@olhodelugarnenhum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@olhodelugarnenhum" height="30" width="40" /></a>
+</p>
